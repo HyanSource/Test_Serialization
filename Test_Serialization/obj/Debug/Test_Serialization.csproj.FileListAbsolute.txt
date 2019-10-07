@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Test_Serialization\Test_Serialization\bin\Debug\Test_Serialization.exe.config
+C:\Users\User\source\repos\Test_Serialization\Test_Serialization\bin\Debug\Test_Serialization.exe
+C:\Users\User\source\repos\Test_Serialization\Test_Serialization\bin\Debug\Test_Serialization.pdb
+C:\Users\User\source\repos\Test_Serialization\Test_Serialization\obj\Debug\Test_Serialization.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Test_Serialization\Test_Serialization\obj\Debug\Test_Serialization.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Test_Serialization\Test_Serialization\obj\Debug\Test_Serialization.exe
+C:\Users\User\source\repos\Test_Serialization\Test_Serialization\obj\Debug\Test_Serialization.pdb
